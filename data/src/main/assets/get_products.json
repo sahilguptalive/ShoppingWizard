@@ -1,0 +1,42 @@
+{
+	"product_list": [{
+			"productId": 1,
+			"name": "microwave oven",
+			"display_name": "Microwave Oven",
+			"category": 1,
+			"price": 10.0
+		},
+		{
+			"productId": 2,
+			"name": "television",
+			"display_name": "television",
+			"category": 1,
+			"price": 20.0
+		}, {
+			"productId": 3,
+			"name": "vacuum cleaner",
+			"display_name": "Vacuum Cleaner",
+			"category": 1,
+			"price": 30.0
+		}, {
+			"productId": 4,
+			"name": "almirah",
+			"display_name": "Almirah",
+			"category": 2,
+			"price": 10.0
+		}, {
+			"productId": 5,
+			"name": "chair",
+			"display_name": "Chair",
+			"category": 2,
+			"price": 50.0
+		}, {
+			"productId": 6,
+			"name": "table",
+			"display_name": "Table",
+			"category": 2,
+			"price": 60.0
+		}
+	]
+
+}

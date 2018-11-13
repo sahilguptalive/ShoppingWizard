@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ShoppingWizard</string>
+    <string name="title_activity_home">Products</string>
+    <string name="add_to_cart">Add to cart</string>
+    <string name="show_cart">Show Cart</string>
+    <string name="cart_total">Total: %1$s</string>
+    <string name="title_activity_product_detail">Product Details</string>
+    <string name="title_activity_cart_detail">Cart</string>
+    <string name="remove_cart_item">Remove Cart Item</string>
+    <string-array name="categories">
+        <item name="all">All</item>
+        <item name="electronic">Electronics</item>
+        <item name="Furniture">Furniture</item>
+    </string-array>
+</resources>
